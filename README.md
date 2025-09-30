@@ -26,6 +26,27 @@ It was created by John Ousterhout in the late 1980s. Tcl is widely used for:
 
 ## Getting Started
 
-Run Tcl scripts using the interpreter:
+### Environment
+
+These Tcl scripts were tested on:
+
+- **Operating System**: Windows 10/11 using WSL (Windows Subsystem for Linux)
+- **Tcl Version**: 8.7
+- **Shell**: bash (through WSL)
+
+---
+### Start
+
+1. Open **WSL terminal** (Ubuntu or your preferred Linux distro installed via WSL).
+2. Navigate to the project directory:
+   ```bash
+   cd /mnt/c/Users/your-username/path-to-repo/tcl-examples
+
+3. Download TCL  from below link
+``` bash
+https://www.magicsplat.com/tcl-installer/
+```
+4. Run Tcl scripts using the interpreter:
 ```bash
-tclsh script.tcl
+tclsh or 3>tclsh
+```
