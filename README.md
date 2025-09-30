@@ -30,17 +30,16 @@ It was created by John Ousterhout in the late 1980s. Tcl is widely used for:
 
 These Tcl scripts were tested on:
 
-- **Operating System**: Windows 10/11 using WSL (Windows Subsystem for Linux)
+- **Operating System**: Windows 10/11 
 - **Tcl Version**: 8.7
-- **Shell**: bash (through WSL)
+- **Shell**: bash 
 
 ---
 ### Start
 
-1. Open **WSL terminal** (Ubuntu or your preferred Linux distro installed via WSL).
+1. Open **terminal** 
 2. Navigate to the project directory:
-   ```bash
-   cd /mnt/c/Users/your-username/path-to-repo/tcl-examples
+  
 
 3. Download TCL  from below link
 ``` bash
