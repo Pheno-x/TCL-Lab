@@ -1,4 +1,4 @@
- ## Run Tcl starting Command
+ ## Open terminal and run Tcl starting Command
  ```bash
 tclsh  or 3>tclsh
 ```
