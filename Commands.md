@@ -101,7 +101,7 @@ if {$a == 5} {
 ```
 Output
 ```tcl
-5 || if set value is not 5 if it is 3 it will print none
+5 || if set value is not 5 if it is a value like 3 it will print none
 ```
 
 ## 6. 
