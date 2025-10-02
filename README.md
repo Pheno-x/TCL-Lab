@@ -1,8 +1,10 @@
-![Tcl Version](https://img.shields.io/badge/Tcl-8.7-blue?logo=tcl) ![Language](https://img.shields.io/badge/Language-Tcl-orange?logo=tcl)
+![Tcl Version](https://img.shields.io/badge/Tcl-8.7-blue?logo=tcl) 
+![Language](https://img.shields.io/badge/Language-Tcl-orange?logo=tcl)
 
-# Tools Command Language
+# Tools Command Language (Tcl)
 
-## This repository contains basic Tcl programs with their expected outputs.Each script demonstrates a specific concept in Tcl.
+This repository contains basic Tcl programs with their expected outputs.  
+Each script demonstrates a specific concept in Tcl.
 
 ---
 
@@ -11,16 +13,25 @@
 **Tcl (Tool Command Language)** is a simple, powerful, and embeddable scripting language.  
 It was created by John Ousterhout in the late 1980s. Tcl is widely used for:
 
-- **Scripting & automation**: quick prototyping and testing.
-- **EDA/Chip design**: popular in FPGA/ASIC flows with tools like Synopsys, Cadence, Xilinx.
-- **Networking**: routers and embedded systems.
-- **GUI development**: often paired with Tk (Tcl/Tk).
+- **Scripting & automation**: quick prototyping and testing  
+- **EDA/Chip design**: popular in FPGA/ASIC flows with tools like Synopsys, Cadence, Xilinx  
+- **Networking**: routers and embedded systems  
+- **GUI development**: often paired with Tk (Tcl/Tk)  
 
 ### Key Features
-- Very **simple syntax** (everything is a command).
-- **Cross-platform** (works on Linux, Windows, macOS).
-- **Extensible** (easy to add C/C++ extensions).
-- Excellent for **text processing** and **automation**.
+- Very **simple syntax** (everything is a command)  
+- **Cross-platform** (Linux, Windows, macOS)  
+- **Extensible** (easy to add C/C++ extensions)  
+- Excellent for **text processing** and **automation**  
+
+---
+
+## Contents
+- Variables and conditions  
+- Arrays  
+- File handling  
+- String formatting  
+- Loops  
 
 ---
 
@@ -30,22 +41,27 @@ It was created by John Ousterhout in the late 1980s. Tcl is widely used for:
 
 These Tcl scripts were tested on:
 
-- **Operating System**: Windows 10/11 
-- **Tcl Version**: 8.7
-- **Shell**: bash 
+- **Operating System**: Windows 10/11  
+- **Tcl Version**: 8.7  
+- **Shell**: PowerShell (or bash on Linux/macOS)  
 
 ---
-### Start
 
-1. Open **terminal** 
-2. Navigate to the project directory:
-  
+### Setup
 
-3. Download TCL  from below link
-``` bash
-https://www.magicsplat.com/tcl-installer/
-```
-4. Run Tcl scripts using the interpreter:
-```bash
-tclsh or 3>tclsh
-```
+1. **Download Tcl** from the [Magicsplat installer](https://www.magicsplat.com/tcl-installer/).  
+2. Open a terminal (PowerShell on Windows or bash on Linux/macOS).  
+3. Navigate to the project directory:  
+   ```bash
+   cd path/to/tcl-examples
+   ```
+4. Run tclsh or tclsh scriptname.tcl
+
+---
+
+## Author 
+**Prathamesh Desai**  
+Electronics & Communication | VLSI Enthusiast  
+[GitHub Profile](https://github.com/Pheno-x)
+
+---
