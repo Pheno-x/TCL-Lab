@@ -3,7 +3,7 @@
 
 # Tools Command Language (Tcl)
 
-This repository contains basic Tcl programs with their expected outputs.  
+This repository contains basic Tcl commands with their expected outputs.  
 Each script demonstrates a specific concept in Tcl.
 
 ---
